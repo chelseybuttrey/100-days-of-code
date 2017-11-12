@@ -16,3 +16,12 @@
 
 **Link to work:** [CodePen](https://codepen.io/cbuttrey/pen/BwgOad)
 **Link to work:** [Tweet](https://twitter.com/ChelseyButtrey/status/923021685569159169)
+
+### Day 3: Saturday, Nov 11, 2017 
+
+**Today's Progress**: Finished Basic Tribute page from FreeCodeCamp
+
+**Thoughts:** Life suddenly got crazy after days 1&2. I realize it was only two days, but I'm not starting over. I want to see the progress I make. I need to see it, even if I skip days. I created a simple tribute page for Corrie Ten Boom today. It was fun and refreshing.
+
+**Link to work:** [CodePen](https://codepen.io/cbuttrey/pen/BwgOad)
+**Link to work:** [Tweet](https://twitter.com/ChelseyButtrey/status/929579035402760192)
