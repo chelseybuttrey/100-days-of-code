@@ -25,3 +25,12 @@
 
 **Link to work:** [CodePen](https://codepen.io/cbuttrey/pen/BwgOad)
 **Link to work:** [Tweet](https://twitter.com/ChelseyButtrey/status/929579035402760192)
+
+### Day 4: Sunday, Nov 12, 2017 
+
+**Today's Progress**: Started on Portfolio project from Freecodecamp
+
+**Thoughts:** I'm trying to go simple with this as we have really just covered HTML, CSS and Bootstrap. But, I also want this to look half way decent when I'm done and then maybe use it on my actual site. I'm not sure I want to build something more complex than a one pager on code pen. I realize I don't have to stick with code pen, but I am for now. This also sounds dumb, but I'm having a hard time picking a color palette. 
+
+**Link to work:** [CodePen](https://codepen.io/cbuttrey/pen/aVWaOy)
+**Link to work:** [Tweet](https://twitter.com/ChelseyButtrey/status/929934481162506241)
