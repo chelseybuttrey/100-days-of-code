@@ -37,7 +37,7 @@
 
 ### Day 5: Monday, Nov 13, 2017 
 
-**Today's Progress**: Started on Portfolio project from Freecodecamp
+**Today's Progress**: Portfolio project from Freecodecamp
 
 **Thoughts:** Worked on the portfolio project from Freecodecamp. Not really liking how the images are laying out. I'm sourcing all of them off flickr. I'm struggling over obsessing over this project and just getting it done so that I can move on. 
 
