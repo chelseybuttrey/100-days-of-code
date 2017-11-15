@@ -44,4 +44,13 @@
 **Link to work:** [CodePen](https://codepen.io/cbuttrey/pen/aVWaOy)
 **Link to work:** [Tweet](https://twitter.com/ChelseyButtrey/status/930287643677507584)
 
+### Day 6: Tuesday, Nov 14, 2017 
+
+**Today's Progress**: Portfolio project and Javascript from Freecodecamp
+
+**Thoughts:** Finished my portfolio, for now. I know it will be a work in progress. I also started on Javascript. Whew! I have played around with it but more from Google telling me where to put stuff. It's nice to get to start learning why I did what I did.
+
+**Link to work:** [CodePen](https://codepen.io/cbuttrey/pen/aVWaOy)
+**Link to work:** [Tweet](https://twitter.com/ChelseyButtrey/status/930287643677507584)
+
 
